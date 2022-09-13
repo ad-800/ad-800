@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Addy Cummins</h1>
 <h3 align="center">Junior full stack developer specializing in Ruby on Rails.</h3>
 
-- 🔭 I’m currently working on **Multiplayer Javascript Game**
+- 🔭 I’m currently working on **a multiplayer javascript game**
 
-- 🌱 I’m currently learning **React, Rail's Action Cable**
+- 🌱 I’m currently learning **react, rail's action cable**
 
 - 👨‍💻 All of my projects are available at (Coming Soon)
 
 - 📝 I regularly write articles on (Coming Soon)
 
-- 💬 Ask me about **Scraping, Ruby, CSS Flexbox**
+- 💬 Ask me about **scraping, ruby, css flexbox**
 
 - 📫 How to reach me **adalynecummins@gmail.com**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adalyne-cummins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adalyne-cummins" height="30" width="40" /></a>
-<a href="https://fb.com/addy.cummins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="addy.cummins" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adalyne-cummins-a840b2a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adalyne-cummins" height="30" width="40" /></a>
+<a href="https://fb.com//addy.cummins.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="addy.cummins" height="30" width="40" /></a>
 <a href="https://instagram.com/adalynejane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adalynejane" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adalynecummins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adalynecummins" height="30" width="40" /></a>
 </p>
