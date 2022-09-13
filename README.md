@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adalynecummins@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences (Coming Soon)
 
 - ⚡ Fun fact **I love rock climbing and writing in my spare time**
 
