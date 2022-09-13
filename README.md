@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Addy Cummins</h1>
-<h3 align="center">Junior full stack developer specializing in Ruby on Rails.</h3>
+<h1 align="left">Hi, I'm Addy Cummins</h1>
+<h3 align="left">Junior full stack developer specializing in Ruby on Rails.</h3>
 
 - 🔭 I’m currently working on **a multiplayer javascript game**
 
