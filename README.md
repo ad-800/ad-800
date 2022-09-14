@@ -1,17 +1,17 @@
 <h1 align="left">Hi, I'm Adalyne Cummins</h1>
 <h3 align="left">Junior full stack developer specializing in Ruby on Rails.</h3>
 
-- 🔭 I’m currently working on **a multiplayer javascript game**
+- 🔭 I’m currently working on: **a multiplayer javascript game**
 
-- 🌱 I’m currently learning **react, rail's action cable**
+- 🌱 I’m currently learning: **react, rail's action cable**
 
-- 👨‍💻 All of my projects are available at https://adalyneportfolio.herokuapp.com/
+- 👨‍💻 All of my projects are available at: https://adalyneportfolio.herokuapp.com/
 
-- 💬 Ask me about **scraping, ruby, css flexbox**
+- 💬 Ask me about: **scraping, ruby, css flexbox**
 
-- 📫 How to reach me **adalynecummins@gmail.com**
+- 📫 How to reach me: **adalynecummins@gmail.com**
 
-- ⚡ Fun fact **I love rock climbing and writing in my spare time**
+- ⚡ Fun fact: **I love rock climbing and writing in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
