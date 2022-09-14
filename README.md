@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ad-800&show_icons=true&locale=en" alt="ad-800" /></p>
 
-<p><img align="center" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-800&" alt="ad-800" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-800&" alt="ad-800" /></p>
 
 <!---
 ad-800/ad-800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
