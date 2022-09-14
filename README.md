@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **react, rail's action cable**
 
-- 👨‍💻 All of my projects are available at (Coming Soon)
-
-- 📝 I regularly write articles on (Coming Soon)
+- 👨‍💻 All of my projects are available at https://adalyneportfolio.herokuapp.com/
 
 - 💬 Ask me about **scraping, ruby, css flexbox**
 
 - 📫 How to reach me **adalynecummins@gmail.com**
-
-- 📄 Know about my experiences (Coming Soon)
 
 - ⚡ Fun fact **I love rock climbing and writing in my spare time**
 
