@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adalyne-cummins-a840b2a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adalyne-cummins" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adalynecummins/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adalyne-cummins" height="30" width="40" /></a>
 <a href="https://fb.com//addy.cummins.9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="addy.cummins" height="30" width="40" /></a>
 <a href="https://instagram.com/adalynejane" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adalynejane" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adalynecummins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adalynecummins" height="30" width="40" /></a>
