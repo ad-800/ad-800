@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Adalyne Cummins</h1>
+<h1 align="left">Hi, I'm Addy Cummins</h1>
 <h3 align="left">Junior full stack developer specializing in Ruby on Rails.</h3>
 
 - 🔭 I’m currently working on: **a multiplayer javascript game**
