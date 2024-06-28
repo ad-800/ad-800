@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [A multiplayer game](https://adalyneportfolio.herokuapp.com/project_exqcorps)
 
-- 🌱 I’m currently learning **Java Spring, Docker, React**
+- 🌱 I’m currently learning **Docker, TypeScript, CSS Animation**
 
-- 👯 I’m looking to collaborate on **Anything Ruby and Web Dev related**
+- 👯 I’m looking to collaborate on **Anything Rub, React & Web Dev related**
 
 - 👨‍💻 All of my projects are available at [https://adalyneportfolio.herokuapp.com/](https://adalyneportfolio.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@adalyne.cummins](https://medium.com/@adalyne.cummins)
 
-- 💬 Ask me about **DevOps, CSS Flexbox, Ruby**
+- 💬 Ask me about **DevOps, Clean Code, Ruby**
 
 - 📫 How to reach me **adalynecummins@gmail.com**
 
