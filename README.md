@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, TypeScript, CSS Animation**
 
-- 👯 I’m looking to collaborate on **Anything Rub, React & Web Dev related**
+- 👯 I’m looking to collaborate on **Anything Ruby, React & Web Dev related**
 
 - 👨‍💻 All of my projects are available at [https://adalyneportfolio.herokuapp.com/](https://adalyneportfolio.herokuapp.com/)
 
